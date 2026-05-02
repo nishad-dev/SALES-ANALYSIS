@@ -106,18 +106,4 @@ This dashboard helps businesses to:
 
 ---
 
-<h2>👤 Author</h2>
 
-<p>
-<b>MUHAMMED NISHAD PM</b><br>
-🔗 <a href="https://www.linkedin.com/in/muhammed-nishad-18525a250">LinkedIn</a><br>
-📧 muhammednishadpm533@gmail.com
-</p>
-
----
-
-<h2>⭐ Support</h2>
-
-<p align="center">
-If you like this project, give it a ⭐ on GitHub!
-</p>
